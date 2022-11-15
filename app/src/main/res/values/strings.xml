@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Apk SKTLK</string>
+    <string name="tv1">Daftar</string>
+    <string name="tv2">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

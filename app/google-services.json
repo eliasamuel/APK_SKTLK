@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206396420972",
+    "project_id": "db-mvvm-sktlk",
+    "storage_bucket": "db-mvvm-sktlk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206396420972:android:0010a26797be3230bff949",
+        "android_client_info": {
+          "package_name": "com.russell.apksktlk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206396420972-3gjtg9l7biudhcbrdvnnk0rug6kda6i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.russell.apksktlk",
+            "certificate_hash": "c098c48eb0d44291ef0266d6835675391727acb6"
+          }
+        },
+        {
+          "client_id": "206396420972-6cpuhc4g26d9s49g9flnbej8jgsi9cjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACb3HjvHVIELfLNfQ3b8Er2_uMOxGj3Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206396420972-6cpuhc4g26d9s49g9flnbej8jgsi9cjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
